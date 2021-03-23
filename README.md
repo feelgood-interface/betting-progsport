@@ -1,5 +1,5 @@
 # betting-progsport
-Get best basketball bets on progsport.com (http://www.progsport.com/).
+Get best basketball bets on [progsport.com](http://www.progsport.com/).
 
 ## Getting Started
 1. Install the requirements
